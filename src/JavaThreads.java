@@ -1,4 +1,4 @@
-package JavaExample;
+
 
 public class JavaThreads {
 
